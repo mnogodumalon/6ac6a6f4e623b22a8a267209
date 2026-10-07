@@ -1,0 +1,27 @@
+{
+  "entities": {
+    "Kategorien": {
+      "placeholders_set": 2,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten ohne numerische Felder, daher keine Formeln."
+    },
+    "Lieferanten": {
+      "placeholders_set": 10,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten ohne numerische Felder, daher keine Formeln und keine sinnvollen Standardwerte."
+    },
+    "Inventar": {
+      "placeholders_set": 11,
+      "defaults_keys": [
+        "menge",
+        "anschaffungsdatum",
+        "zustand",
+        "einheit"
+      ],
+      "computed_keys": [],
+      "reason": "Keine Formel, da kein Datumspaar oder Preis über applookup erreichbar ist und Menge und Einkaufspreis keine sinnvolle Summe ergeben."
+    }
+  }
+}

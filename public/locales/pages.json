@@ -1,0 +1,28 @@
+{
+  "pages": {
+    "en": {
+      "Alle {0} Artikel sind ausreichend vorrätig.": "All {0} items are sufficiently in stock.",
+      "Alles ausreichend vorrätig.": "Everything sufficiently in stock.",
+      "Als repariert markieren": "Mark as repaired",
+      "Artikel erfassen": "Add item",
+      "Artikel pro Kategorie": "Items per category",
+      "Ausreichend bestückt": "Sufficiently stocked",
+      "Bestand — Menge gegen Mindestbestand": "Stock — quantity vs. minimum stock",
+      "Defekt": "Defective",
+      "Ersten Artikel erfassen": "Add first item",
+      "Kategorie": "Category",
+      "Nachbestellen — Menge gegen Mindestbestand": "Reorder — quantity vs. minimum stock",
+      "Noch kein Artikel im Inventar — leg los und erfasse Menge, Standort und Mindestbestand.": "No items in inventory yet — get started and enter quantity, location, and minimum stock.",
+      "Noch keine Anschaffungsdaten erfasst.": "No acquisition data recorded yet.",
+      "Richte dein Werkstattlager ein — erfasse den ersten Artikel.": "Set up your workshop inventory — add the first item.",
+      "Unter Mindestbestand": "Below minimum stock",
+      "Zuletzt angeschafft": "Recently acquired",
+      "ist defekt.": "is defective.",
+      "sind defekt.": "are defective.",
+      "{0} muss nachbestellt werden.": "{0} needs to be reordered.",
+      "{0} müssen nachbestellt werden.": "{0} need to be reordered.",
+      "{0} — als repariert markiert": "{0} — marked as repaired"
+    }
+  },
+  "v": 1
+}
